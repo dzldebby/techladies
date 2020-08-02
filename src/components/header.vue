@@ -32,4 +32,9 @@ a {
     color: #fff;
 }
 
+.bg-info {
+  background-color: purple !important;
+}
+
+
 </style>
