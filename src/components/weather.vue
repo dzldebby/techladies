@@ -39,6 +39,7 @@ export default {
       timestamp: {},
     }
   },
+  //every 1 second
   created() {
     setInterval(this.getNow,1000);
   },
@@ -55,7 +56,7 @@ export default {
     say: function (message) {
       alert(message)
     },
-    /* Tried to use a complicated today.getDate function but realised that it was very difficult to get the date formatted in the way that I wanted. Later realised that moment.js solves this problem very easily*/
+    // Tried to use a complicated today.getDate function but realised that it was very difficult to get the date formatted in the way that I wanted. Later realised that moment.js solves this problem very easily//
     moment: function() {
       return moment();
     },

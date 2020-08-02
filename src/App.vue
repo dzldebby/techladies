@@ -1,6 +1,7 @@
 <template>
   <div>
     <app-header></app-header>
+    <!-- router-view is showing the content -->
     <router-view></router-view>
   </div>
 </template>

@@ -46,7 +46,7 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped>
 h3 {
-  margin: 40px 0 0;
+  margin: 10px 0 0;
 }
 ul {
   list-style-type: none;
@@ -66,6 +66,7 @@ a {
 }
 img {
   max-width:20%;
+  padding: 10px;
 }
 .textwrap {
   float: left;

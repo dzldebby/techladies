@@ -1,7 +1,7 @@
+<!--Header that contains the router-links-->
+
 <template>
 
-
-    
   <b-navbar toggleable="lg" type="dark" variant="info">
     <b-navbar-brand><b>Hello!</b></b-navbar-brand>
 
