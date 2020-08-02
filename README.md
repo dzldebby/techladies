@@ -1,5 +1,7 @@
 # techladies
 
+## Hi there, this is my Techladies Bootcamp #6 application
+
 ## Project setup
 ```
 npm install
