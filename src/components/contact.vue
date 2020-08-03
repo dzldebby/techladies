@@ -13,12 +13,17 @@
       <div class ="contactlinks">
         <li>
           <p>
-            <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com" target="_blank" rel="noopener">Linkedin</a>
+            <i class="fab fa-linkedin"></i> <a href="https://www.linkedin.com/in/debby-ling-74944226/" target="_blank" rel="noopener">Linkedin</a>
           </p>
         </li>
         <li>
           <p>
-            <i class="fab fa-github-square"></i> <a href="https://www.github.com" target="_blank" rel="noopener">Github</a>
+            <i class="fab fa-github-square"></i> <a href="https://github.com/dzldebby/" target="_blank" rel="noopener">Github </a>
+          </p>
+        </li>
+        <li>
+          <p>
+            <i class="fas fa-file-alt"></i> <a href="https://debbyling.github.io" target="_blank" rel="noopener">My personal page :)</a>
           </p>
         </li>
       </div>
